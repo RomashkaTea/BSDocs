@@ -1,0 +1,2 @@
+# BSDocs
+Brawl Stars documentation.
